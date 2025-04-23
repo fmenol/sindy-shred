@@ -1,0 +1,3 @@
+[submodule "yeast_pipeline/idp_core"]
+	path = yeast_pipeline/idp_core
+	url = https://gitlab.com/biochron/inherent_dynamics_pipeline.git
